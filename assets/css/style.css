@@ -7,16 +7,21 @@ form {
 #submit {
     width: 50px;
     height: 50px;
-    border-radius: 10px;
 
 }
 
 #button {
     background-color: blue;
-    border-radius: 10px;
 
 }
 
 #button:hover    {
     background-color: black;
+}
+.input {
+    border-radius: 10px;
+}
+.input:hover {
+    background-color: black;
+    color: white;
 }
