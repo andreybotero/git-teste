@@ -20,6 +20,8 @@ form {
 }
 .input {
     border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
 }
 .input:hover {
     background-color: black;
